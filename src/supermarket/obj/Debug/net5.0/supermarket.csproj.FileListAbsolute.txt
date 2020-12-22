@@ -1,0 +1,16 @@
+D:\innRoad\supermarket\src\supermarket\obj\Debug\net5.0\supermarket.csprojAssemblyReference.cache
+D:\innRoad\supermarket\src\supermarket\obj\Debug\net5.0\supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\innRoad\supermarket\src\supermarket\obj\Debug\net5.0\supermarket.AssemblyInfoInputs.cache
+D:\innRoad\supermarket\src\supermarket\obj\Debug\net5.0\supermarket.AssemblyInfo.cs
+D:\innRoad\supermarket\src\supermarket\obj\Debug\net5.0\supermarket.csproj.CoreCompileInputs.cache
+D:\innRoad\supermarket\src\supermarket\bin\Debug\net5.0\supermarket.exe
+D:\innRoad\supermarket\src\supermarket\bin\Debug\net5.0\supermarket.deps.json
+D:\innRoad\supermarket\src\supermarket\bin\Debug\net5.0\supermarket.runtimeconfig.json
+D:\innRoad\supermarket\src\supermarket\bin\Debug\net5.0\supermarket.runtimeconfig.dev.json
+D:\innRoad\supermarket\src\supermarket\bin\Debug\net5.0\supermarket.dll
+D:\innRoad\supermarket\src\supermarket\bin\Debug\net5.0\ref\supermarket.dll
+D:\innRoad\supermarket\src\supermarket\bin\Debug\net5.0\supermarket.pdb
+D:\innRoad\supermarket\src\supermarket\obj\Debug\net5.0\supermarket.dll
+D:\innRoad\supermarket\src\supermarket\obj\Debug\net5.0\ref\supermarket.dll
+D:\innRoad\supermarket\src\supermarket\obj\Debug\net5.0\supermarket.pdb
+D:\innRoad\supermarket\src\supermarket\obj\Debug\net5.0\supermarket.genruntimeconfig.cache
